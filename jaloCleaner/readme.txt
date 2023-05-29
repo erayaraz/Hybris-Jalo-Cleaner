@@ -1,2 +1,1 @@
-Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
-./a.ps1
+This application is developed by Eray Araz at Hybris to clean jalo classes.
