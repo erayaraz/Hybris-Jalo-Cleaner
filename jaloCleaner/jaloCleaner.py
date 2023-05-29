@@ -39,7 +39,7 @@ def start_thread():
 root = tk.Tk()
 root.title("Jalo Cleaner")
 root.geometry("500x500")
-root.iconbitmap('Araz.ico')
+root.iconbitmap('images\Araz.ico')
 
 # Arka plan rengini ayarla
 bg_color = "#343541"
